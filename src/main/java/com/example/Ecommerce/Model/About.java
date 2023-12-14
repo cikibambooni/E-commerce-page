@@ -2,6 +2,8 @@ package com.example.Ecommerce.Model;
 
 import java.util.List;
 
+
+
 public class About {
 	
 		private String title;
@@ -103,8 +105,8 @@ public class About {
 		return "About [title=" + title + ", metaDescription=" + metaDescription + ", content=" + content + ", author="
 				+ author + ", imageUrl=" + imageUrl + ", tags=" + tags + "]";
 	}
-	
-	
+
+
 	
 	
 }

@@ -10,8 +10,7 @@ public class BackingTracks {
 	private String currency;
 	private String category;
 	
-	
-	
+		
 	public BackingTracks(String title, String metaDescription, String content, String author, double price,
 			String currency, String category) {
 		super();
